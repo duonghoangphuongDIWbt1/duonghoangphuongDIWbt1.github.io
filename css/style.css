@@ -110,10 +110,10 @@ header{
 }
 
 .process{
-	height: 1450px;
+	height: 1500px;
 	background: url("../img/bg.png"),#F9F8FF;
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: cover;
 	padding:160px 0 186px;
 	color:white;
 }
